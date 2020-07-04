@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bartosz Feński&#39;s personal website...</title>
-    <link>https://fenio.github.io/</link>
-    <description>Recent content on Bartosz Feński&#39;s personal website...</description>
+    <title>fEnIo&#39;s personal website...</title>
+    <link>https://bartosz.fenski.pl/</link>
+    <description>Recent content on fEnIo&#39;s personal website...</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://fenio.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bartosz.fenski.pl/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
